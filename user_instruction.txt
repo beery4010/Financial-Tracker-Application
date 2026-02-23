@@ -1,0 +1,16 @@
+Welcome to Financial Tracker App!
+    1. Enter 1 to add transaction/expense
+    2. Enter 2 to get the financial reporting
+    3. Enter anything else to exit 
+Enter your input: 
+;
+Enter the type (Income or Expenditure): 
+;
+Enter the category (Freelance-Job/Online-Job/Full-Time-Job): 
+;
+Enter the category (Grocery, Online Shopping, Pharmacy, Electricity Bill, Water Bill, Other): 
+;
+Enter the amount in Rs. 
+;
+Do you want to add another transaction? (yes/no): 
+;
